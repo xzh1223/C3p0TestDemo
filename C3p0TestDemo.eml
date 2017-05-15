@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/C3p0TestDemo"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="c3p0:c3p0:0.9.1.2" value="project"/>
+		<level name="c3p0-0.9.1.2" value="project"/>
+	</levels>
+</component>
